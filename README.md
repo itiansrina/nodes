@@ -1,4 +1,4 @@
-# Nodes
+# Nodes js
 > A GraphQL JVM Client - Java, Kotlin, Scala, etc.
 
 [![Build Status](https://travis-ci.org/americanexpress/nodes.svg)](https://travis-ci.org/americanexpress/nodes)
